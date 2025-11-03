@@ -1,5 +1,5 @@
 # Apocalypse Rising 2 Script By @XoticVolthOfficial
--this script only qork in apocalypse rising 2 
+-this script only work in apocalypse rising 2 
 
 
 Apocalypse Rising 2 Script 
